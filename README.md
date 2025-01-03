@@ -1,15 +1,15 @@
-# 👋 Olá, sou o Jordi! 
+# 👋 Olá, sou o Jordi Branger! 
 
-### 🎯 Sobre Mim
-- 🧑‍💻 Sou **Assistente Técnico na Digicon** desde abril de 2024.  
+### 🎯 About me:
+- 🧑‍💻 Sou **Assistente Técnico na Digicon** desde abril de 2024. ✔️  
 - 🎓 **Técnico de Informática para Internet** na QI Escolas & Faculdades. ✔️
 - 📘 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio.  🔄
-- 🔧 Experiência anterior: 10 anos na montagem de transformadores na **Weg Equipamentos Elétricos SA**.  
-- 💻 Atualmente focado em aprender **Python** e **C++** para crescer na área de tecnologia.  
+- 💻 Atualmente focado em aprender **Python** e **C++** para crescer na área de tecnologia. 🎯
+- 🔧 Experiência anterior: 10 anos na montagem de transformadores na **Weg Equipamentos Elétricos SA**. 🕰 
 
 ---
 
-### 🛠️ Minhas Habilidades
+### 🛠️ Skills
 - **Linguagens de Programação:**  
   ![Python](https://img.shields.io/badge/Python-3.10-blue) ![C++](https://img.shields.io/badge/C++-17-orange)
   
@@ -33,6 +33,3 @@
 ---
 
 ### 🙏 Obrigado por visitar meu perfil! ✨
-
-
-
