@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Jordi Branger! 
 
-[Hello World GIF](https://c.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif)
+![Hello World GIF](https://c.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif)
 
 ### 🎯 About me:
 - 🧑‍💻 Sou **Assistente Técnico na Digicon** ✔️✔️✔️
