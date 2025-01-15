@@ -22,12 +22,11 @@
 - **Python** & **C++**
 - **Estruturas de Dados e Algoritmos.**  
 - **Desenvolvimento de Jogos 2D** *(GameMaker com temática de terror psicológico em Desenvolvimento)*.  
-- **Rede Neural Convolucional (CNN)** e **Visão computacional avançada**.
 
 ---
-🌐 **Vamos nos conectar!**
-- [LinkedIn](https://www.linkedin.com/in/jordi-branger)
+### 🌐Vamos nos conectar!
 
-- 📧 jordy.branger@hotmail.com
+◀️◀️ **Meus contatos estão todos aqui!!**
+
 ---
 ### 🙏 Obrigado por visitar meu perfil! ✨
