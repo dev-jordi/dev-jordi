@@ -1,6 +1,4 @@
-# 👋 Olá, sou o Jordi Branger! 
-
-![Hello World GIF](https://c.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif)
+# 👋 Olá, sou o Jordi Branger! 👋
 
 ### 🎯 About me:
 - 🧑‍💻 Sou **Assistente Técnico na Digicon** ✔️✔️✔️
@@ -27,5 +25,9 @@
 - **Rede Neural Convolucional (CNN)** e **Visão computacional avançada**.
 
 ---
+🌐 **Vamos nos conectar!**
+- [LinkedIn](https://www.linkedin.com/in/jordi-branger)
 
+- 📧 jordy.branger@hotmail.com
+---
 ### 🙏 Obrigado por visitar meu perfil! ✨
