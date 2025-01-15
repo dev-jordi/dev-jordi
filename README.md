@@ -24,9 +24,8 @@
 - **Desenvolvimento de Jogos 2D** *(GameMaker com temática de terror psicológico em Desenvolvimento)*.  
 
 ---
-### 🌐Vamos nos conectar!
+### 🌐 Vamos nos conectar!
 
-◀️◀️ **Meus contatos estão todos aqui!!**
+◀️◀️ Meus contatos estão todos aqui!!
 
----
 ### 🙏 Obrigado por visitar meu perfil! ✨
