@@ -14,7 +14,7 @@
   
 - **Ferramentas e Tecnologias:**  
   ![Git](https://img.shields.io/badge/Git-✔️-lightgrey) ![Linux](https://img.shields.io/badge/Linux-Ubuntu-important) 
-  ![Windows](https://img.shields.io/badge/Windows-✔️-lightblue) ![OpenCV](https://opencv.org/)
+  ![Windows](https://img.shields.io/badge/Windows-✔️-lightblue)  ![OpenCV](https://img.shields.io/badge/OpenCV-✔️-blue)
 
 ---
 
