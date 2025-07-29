@@ -19,7 +19,7 @@
 ---
 
 ### 🌱 Em Aprendizado
-- **Python** & **C++**
+- **Python** & **C/C++**
 - **Visão Computacional & IA**  
 - **Desenvolvimento de Jogos 2D** *(GameMaker com temática de terror psicológico em Desenvolvimento)*.  
 
