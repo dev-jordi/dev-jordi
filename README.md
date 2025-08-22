@@ -1,10 +1,10 @@
-# 👋 Olá, sou o Jordi Branger! 
+# 👋 Olá, sou o Jordi! 
 
 ### 🎯 About me:
-- 👨🏽‍💻 Sou **Assistente Técnico na Digicon SA** 🙏🏻
+- 👨🏽‍💻 Sou **Assistente Técnico na Digicon** 🙏🏻
 - 🎓 **Técnico de Informática para Internet** na QI Escolas & Faculdades. ✔️
-- 📘 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio.  🔄
-- 💻 Atualmente focado em aprender **Python** e **C/C++** para crescer na área de tecnologia. 🎯
+- 📘 **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio.  🔄
+- 💻 Loading **Python** e **C/C++**. 🎯
 
 --- 
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 🌱 Em Aprendizado
+### 🌱 Em Aprendizado constante...
 - **Python** & **C/C++**
 - **Visão Computacional & IA**  
 - **Desenvolvimento de Jogos 2D** *(GameMaker com temática de terror psicológico em Desenvolvimento)*.  
