@@ -23,7 +23,10 @@
 
 ### 🌱 Em aprendizado constante | Always learning...
 - **Python** & **C/C++**  
-- **Visão Computacional & IA | Computer Vision & AI**  
+- **Visão Computacional & IA | Computer Vision & AI**
+- CRM em desenvolvimento, Pedidos cardápio e Site > second.wtf 
+
+Em estudo...
 - **Desenvolvimento de Jogos 2D | 2D Game Development** *(GameMaker com temática de terror psicológico em desenvolvimento | with a psychological horror theme in progress)*  
 
 ---
