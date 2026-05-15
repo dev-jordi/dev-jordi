@@ -6,7 +6,7 @@
 - 👨🏽‍💻 Sou **Assistente Técnico na Digicon** 🙏🏻 | I'm a **Technical Assistant at Digicon** 🙏🏻
 - 🎓 **Técnico de Informática para Internet** na QI Escolas & Faculdades ✔️ | **Internet Computing Technician** at QI Schools & Colleges ✔️
 - 📘 **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio 🔄 | **Analysis and Systems Development (ADS)** at Estácio 🔄
-- 💻 Aprendendo **Python** e **C/C++** 🎯 | Currently learning **Python** and **C/C++** 🎯
+- 💻 Construindo em **Python** e **C/C++** 🎯 | Currently learning **Python** and **C/C++** 🎯
 
 ---
 
