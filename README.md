@@ -1,39 +1,78 @@
 # 👋 Olá, sou o Jordi! | Hi, I'm Jordi!
 
+## 🎯 Sobre mim | About me
+
+- 👨🏽‍💻 Assistente Técnico na **Digicon**
+- 🎓 Técnico de Informática para Internet — **QI Escolas & Faculdades** ✔️
+- 📘 Análise e Desenvolvimento de Sistemas (ADS) — **Estácio** 🔄
+- 💻 Construindo em **Python** e **C/C++**
+
+## 🛠️ Habilidades | Skills
+
+**Linguagens** | Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Ferramentas & Tecnologias** | Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+## 🚀 Projetos | Projects
+
+### 📱 [Sistema de Pedidos](https://github.com/dev-jordi/pedidos-exe) — v1.0.3
+Sistema completo para restaurantes/bares: backend desktop (Electron + Express + Firebird) e app Android (Kotlin + Jetpack Compose). Inclui scanner QR, cache offline, polling adaptativo e compressão gzip.
+
+**Stack:** Electron · Express · Firebird · Kotlin · Jetpack Compose · Material 3
+
 ---
 
-### 🎯 Sobre mim | About me
-- 👨🏽‍💻 Sou **Assistente Técnico na Digicon** 🙏🏻 | I'm a **Technical Assistant at Digicon** 🙏🏻
-- 🎓 **Técnico de Informática para Internet** na QI Escolas & Faculdades ✔️ | **Internet Computing Technician** at QI Schools & Colleges ✔️
-- 📘 **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio 🔄 | **Analysis and Systems Development (ADS)** at Estácio 🔄
-- 💻 Construindo em **Python** e **C/C++** 🎯 | Currently learning **Python** and **C/C++** 🎯
+### 🚗 [Auto CRM](https://github.com/dev-jordi/work-auto-crm)
+Gestão para oficina mecânica com board kanban, controle de serviços, despesas, checklist e lembretes.
+
+**Stack:** React 19 · TanStack Start · Supabase · Tailwind CSS 4 · shadcn/ui · Recharts
 
 ---
 
-### 🛠️ Habilidades | Skills
-- **Linguagens de Programação | Programming Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3.10-blue) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white) ![Inglês em progresso](https://img.shields.io/badge/Inglês-A2/B1-blue)
+### 💼 [FlowConnect CRM](https://github.com/dev-jordi/flow-connect-crm)
+CRM com funil kanban (7 estágios), multi-tenancy, import CSV, chat por lead, relatórios com export PDF/CSV, PWA e tema escuro.
 
-- **Ferramentas e Tecnologias | Tools and Technologies:**  
-  ![Git](https://img.shields.io/badge/Git-✔️-lightgrey) ![Linux](https://img.shields.io/badge/Linux-Ubuntu-important) 
-  ![Windows](https://img.shields.io/badge/Windows-✔️-lightblue) ![OpenCV](https://img.shields.io/badge/OpenCV-✔️-blue) 
-  [![Yolov3](https://img.shields.io/badge/Yolov3-blue)](https://github.com/ultralytics/yolov3) ![Doctest](https://img.shields.io/badge/Doctest-CB3837?logo=c%2b%2b&logoColor=white)
+**Stack:** React 19 · TanStack Router · Supabase · Tailwind CSS 4 · shadcn/ui
 
 ---
 
-### 🌱 Em aprendizado constante | Always learning...
-- **Python** & **C/C++**  
-- **Visão Computacional & IA | Computer Vision & AI**
-- CRM em desenvolvimento, Pedidos cardápio e Site > second.wtf 
+### 🌐 [Second of the Web](https://second.wtf)
+Compre um segundo da internet. 86.400 segundos únicos — pagamento via PayPal e PIX (Mercado Pago).
 
-Em estudo...
-- **Desenvolvimento de Jogos 2D | 2D Game Development** *(GameMaker com temática de terror psicológico em desenvolvimento | with a psychological horror theme in progress)*  
+**Stack:** React 19 · TanStack Start · Supabase · PayPal · Mercado Pago · Vercel
 
 ---
 
-### 🌐 Vamos nos conectar | Let's connect
-◀️◀️ Meus contatos estão todos aqui!! | All my contacts are right here!!
+### 📦 [Build Crib](https://github.com/dev-jordi/build-crib)
+Console privado de deploy para gerenciar releases, binários, bugs, testes e melhorias entre projetos.
+
+**Stack:** TanStack Start · Supabase · Tailwind CSS 4 · shadcn/ui · Bun
+
+## 🌱 Em aprendizado | Currently learning
+
+- 🐍 Python & C/C++ avançado
+- 👁️ Visão Computacional & IA (OpenCV, YOLOv3)
+- 🎮 Desenvolvimento de Jogos 2D (GameMaker — terror psicológico)
+
+## 🌐 Vamos nos conectar | Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Site](https://img.shields.io/badge/Site-second.wtf-000?style=flat&logo=vercel&logoColor=white)](https://second.wtf)
 
 ---
 
-### 🙏 Obrigado por visitar meu perfil | Thanks for visiting my profile ✨
+*🙏 Obrigado por visitar meu perfil | Thanks for visiting my profile ✨*
