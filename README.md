@@ -35,14 +35,14 @@ Sistema completo para restaurantes/bares: backend desktop (Electron + Express + 
 
 ---
 
-### 🚗 [Auto CRM]([https://github.com/dev-jordi/work-auto-crm](https://auto-workflow-hub.vercel.app/))
+### 🚗 [Auto CRM](https://auto-workflow-hub.vercel.app/)
 Gestão para oficina mecânica com board kanban, controle de serviços, despesas, checklist e lembretes.
 
 **Stack:** React 19 · TanStack Start · Supabase · Tailwind CSS 4 · shadcn/ui · Recharts
 
 ---
 
-### 💼 [[FlowConnect CRM](https://github.com/dev-jordi/flow-connect-crm](https://flow-connect-crm-24.vercel.app/))
+### 💼 [FlowConnect CRM](https://flow-connect-crm-24.vercel.app/)
 CRM com funil kanban (7 estágios), multi-tenancy, import CSV, chat por lead, relatórios com export PDF/CSV, PWA e tema escuro.
 
 **Stack:** React 19 · TanStack Router · Supabase · Tailwind CSS 4 · shadcn/ui
@@ -56,7 +56,7 @@ Compre um segundo da internet. 86.400 segundos únicos — pagamento via PayPal 
 
 ---
 
-### 📦 [Build Crib]([https://github.com/dev-jordi/build-crib](https://build-crib.vercel.app/))
+### 📦 [Build Crib](https://build-crib.vercel.app/)
 Console privado de deploy para gerenciar releases, binários, bugs, testes e melhorias entre projetos.
 
 **Stack:** TanStack Start · Supabase · Tailwind CSS 4 · shadcn/ui · Bun
