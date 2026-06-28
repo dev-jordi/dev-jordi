@@ -71,7 +71,6 @@ Console privado de deploy para gerenciar releases, binários, bugs, testes e mel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ordi-branger)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jordy.branger@hotmail.com)
-[![Site](https://img.shields.io/badge/Site-second.wtf-000?style=flat&logo=vercel&logoColor=white)](https://second.wtf)
 
 ---
 
