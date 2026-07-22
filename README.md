@@ -28,7 +28,7 @@
 
 ## 🚀 Projetos | Projects
 
-### 📱 [Sistema de Pedidos](https://github.com/dev-jordi/pedidos-exe) — v1.0.3
+### 📱 [Sistema de Pedidos](https://www.appedir.bar/) — v1.0.3
 Sistema completo para restaurantes/bares: backend desktop (Electron + Express + Firebird) e app Android (Kotlin + Jetpack Compose). Inclui scanner QR, cache offline, polling adaptativo e compressão gzip.
 
 **Stack:** Electron · Express · Firebird · Kotlin · Jetpack Compose · Material 3
