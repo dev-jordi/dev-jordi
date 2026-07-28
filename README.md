@@ -76,11 +76,11 @@ Console privado de deploy para gerenciar releases, binários, bugs, testes e mel
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-jordi&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+<img src="https://github-readme-stats.vercel.app/api?username=dev-jordi&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jordi&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jordi&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Langs" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-jordi&theme=tokyonight&hide_border=true&locale=pt-br)
+<img src="https://streak-stats.demolab.com/?user=dev-jordi&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Streak" />
 
 </div>
 
