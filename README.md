@@ -72,6 +72,24 @@ Console privado de deploy para gerenciar releases, binários, bugs, testes e mel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ordi-branger)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jordy.branger@hotmail.com)
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-jordi&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jordi&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-jordi&theme=tokyonight&hide_border=true&locale=pt-br)
+
+</div>
+
 ---
 
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=dev-jordi&color=blueviolet&style=flat&label=Visitantes+|+Visitors)
+
 *🙏 Obrigado por visitar meu perfil | Thanks for visiting my profile ✨*
+
+</div>
