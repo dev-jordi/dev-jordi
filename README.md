@@ -3,8 +3,8 @@
 ## 🎯 Sobre mim | About me
 
 - 👨🏽‍💻 Assistente Técnico na **Digicon**
-- 🎓 Técnico de Informática para Internet — **QI Escolas & Faculdades** ✔️
-- 📘 Análise e Desenvolvimento de Sistemas (ADS) — **Estácio** 🔄
+- 🎓 Técnico de Informática para Internet - **QI Escolas & Faculdades** ✔️
+- 📘 Análise e Desenvolvimento de Sistemas (ADS) - **Estácio** 🔄
 - 💻 Construindo em **Python** e **C/C++**
 
 ## 🛠️ Habilidades | Skills
@@ -28,7 +28,7 @@
 
 ## 🚀 Projetos | Projects
 
-### 📱 [Sistema de Pedidos](https://www.appedir.bar/) — v1.0.3
+### 📱 [Sistema de Pedidos](https://www.appedir.bar/) - v1.0.3
 Sistema completo para restaurantes/bares: backend desktop (Electron + Express + Firebird) e app Android (Kotlin + Jetpack Compose). Inclui scanner QR, cache offline, polling adaptativo e compressão gzip.
 
 **Stack:** Electron · Express · Firebird · Kotlin · Jetpack Compose · Material 3
@@ -50,7 +50,7 @@ CRM com funil kanban (7 estágios), multi-tenancy, import CSV, chat por lead, re
 ---
 
 ### 🌐 [Second of the Web](https://second.wtf)
-Compre um segundo da internet. 86.400 segundos únicos — pagamento via PayPal e PIX (Mercado Pago).
+Compre um segundo da internet. 86.400 segundos únicos - pagamento via PayPal e PIX (Mercado Pago).
 
 **Stack:** React 19 · TanStack Start · Supabase · PayPal · Mercado Pago · Vercel
 
@@ -65,7 +65,7 @@ Console privado de deploy para gerenciar releases, binários, bugs, testes e mel
 
 - 🐍 Python & C/C++ avançado
 - 👁️ Visão Computacional & IA (OpenCV, YOLOv3)
-- 🎮 Desenvolvimento de Jogos 2D (GameMaker — terror psicológico)
+- 🎮 Desenvolvimento de Jogos 2D (GameMaker - terror psicológico)
 
 ## 🌐 Vamos nos conectar | Let's connect
 
