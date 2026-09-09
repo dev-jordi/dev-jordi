@@ -35,14 +35,14 @@ Sistema completo para restaurantes/bares: backend desktop (Electron + Express + 
 
 ---
 
-### 🚗 [Auto CRM](https://auto-workflow-hub.vercel.app/)
+### 🚗 [Virabre CRM](https://virabre.site/)
 Gestão para oficina mecânica com board kanban, controle de serviços, despesas, checklist e lembretes.
 
 **Stack:** React 19 · TanStack Start · Supabase · Tailwind CSS 4 · shadcn/ui · Recharts
 
 ---
 
-### 💼 [FlowConnect CRM](https://flow-connect-crm-24.vercel.app/)
+### 💼 [Veltys CRM](https://veltys.vercel.app/)
 CRM com funil kanban (7 estágios), multi-tenancy, import CSV, chat por lead, relatórios com export PDF/CSV, PWA e tema escuro.
 
 **Stack:** React 19 · TanStack Router · Supabase · Tailwind CSS 4 · shadcn/ui
