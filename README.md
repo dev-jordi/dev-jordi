@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 Assistente Técnico na **Digicon**
 - 🎓 Técnico de Informática para Internet - **QI Escolas & Faculdades** ✔️
-- 📘 Análise e Desenvolvimento de Sistemas (ADS) - **Estácio** 🔄
+- 📘 Análise e Desenvolvimento de Sistemas (ADS) - **Estácio** ✔️
 - 💻 Construindo em **Python** e **C/C++**
 
 ## 🛠️ Habilidades | Skills
